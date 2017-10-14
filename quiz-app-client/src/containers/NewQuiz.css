@@ -1,0 +1,9 @@
+.NewQuiz form {
+  padding-bottom: 15px;
+}
+
+.NewQuiz form textarea {
+  height: 400px;
+  font-size: 24px;
+}
+
